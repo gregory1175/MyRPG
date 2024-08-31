@@ -1,0 +1,46 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "BaseWorld.json": {
+            "scale": 0.9262499999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 479.8920377867748,
+                "y": 320.1079622132254
+            }
+        },
+        "BaseWorld.json#tiles": {
+            "scaleInDock": 1
+        },
+        "BaseWorls.json": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 153.99999999999994,
+                "y": 283.33333333333326
+            }
+        },
+        "BaseWorls.json#tiles": {
+            "scaleInDock": 0.75
+        }
+    },
+    "last.imagePath": "C:/Users/grish/Desktop/rpgGame/src/assets",
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+    ],
+    "project": "безымянный.tiled-project",
+    "recentFiles": [
+        "BaseWorld.json",
+        "BaseWorls.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.spacing": 1
+}
