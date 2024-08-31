@@ -9,6 +9,9 @@
     ],
     "file.lastUsedOpenFilter": "Все файлы (*)",
     "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
         "BaseWorld.json": {
             "scale": 0.9262499999999999,
             "selectedLayer": 0,
